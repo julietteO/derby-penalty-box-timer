@@ -7,6 +7,7 @@ const COLORS: string[] = [
   "green",
   "pink",
   "purple",
+  "turquoise",
 ];
 
 const DARK_COLORS: string[] = ["black", "blue", "green", "red", "purple"];
