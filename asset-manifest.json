@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/derby-penalty-box-timer/static/css/main.97655e9f.css",
-    "main.js": "/derby-penalty-box-timer/static/js/main.ed24fa60.js",
+    "main.js": "/derby-penalty-box-timer/static/js/main.e969ebf5.js",
     "static/js/453.30d6168d.chunk.js": "/derby-penalty-box-timer/static/js/453.30d6168d.chunk.js",
     "index.html": "/derby-penalty-box-timer/index.html",
     "main.97655e9f.css.map": "/derby-penalty-box-timer/static/css/main.97655e9f.css.map",
-    "main.ed24fa60.js.map": "/derby-penalty-box-timer/static/js/main.ed24fa60.js.map",
+    "main.e969ebf5.js.map": "/derby-penalty-box-timer/static/js/main.e969ebf5.js.map",
     "453.30d6168d.chunk.js.map": "/derby-penalty-box-timer/static/js/453.30d6168d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97655e9f.css",
-    "static/js/main.ed24fa60.js"
+    "static/js/main.e969ebf5.js"
   ]
 }
