@@ -92,7 +92,7 @@ function App() {
         <ColorPicker currentColor={team1Color} setColor={setTeam1Color} />
         <Button
           onClick={() => setIsGlobalPause(!isGlobalPause)}
-          title={isGlobalPause ? "Resume all" : "Pause all"}
+          title={isGlobalPause ? "PAUSE ALL" : "RESUME ALL"}
         />
         <ColorPicker currentColor={team2Color} setColor={setTeam2Color} />
       </div>
