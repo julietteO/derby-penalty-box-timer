@@ -20,15 +20,19 @@ function ColorPicker({
             position: "absolute",
             top: "0",
             left: "0",
-            backgroundColor: "white",
+            backgroundColor: "rgba(0, 0, 0, 0.87)",
+
             width: "100%",
             height: "100%",
             display: "flex",
             flexDirection: "column",
             justifyContent: "space-around",
+            alignItems: "center",
           }}
         >
-          <div style={{ fontSize: "30px" }}>Choose team color</div>
+          <div style={{ fontSize: "30px", color: "#ffffff" }}>
+            Choose team color
+          </div>
           <div
             style={{
               display: "flex",
@@ -44,7 +48,8 @@ function ColorPicker({
                   width: "50px",
                   borderRadius: "50%",
                   backgroundColor: color,
-                  border: "2px solid black",
+                  border: "2px solid white",
+                  margin: "10px",
                 }}
                 onClick={() => {
                   setColor(color);
