@@ -5,8 +5,8 @@ import ColorPicker from "./components/ColorPicker";
 import Button from "./components/Button";
 
 function App() {
-  var [team1Color, setTeam1Color] = useState("red");
-  var [team2Color, setTeam2Color] = useState("blue");
+  var [team1Color, setTeam1Color] = useState("black");
+  var [team2Color, setTeam2Color] = useState("white");
 
   var [isGlobalPause, setIsGlobalPause] = useState(false);
 
