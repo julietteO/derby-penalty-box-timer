@@ -63,7 +63,7 @@ function Player({
           marginTop: "10px",
           fontWeight: timeLeft <= 10000 && timeLeft > 0 ? "bold" : "normal",
           borderStyle: timeLeft <= 10000 && timeLeft > 0 ? "dashed" : "solid",
-          borderColor: timeLeft <= 10000 && timeLeft > 0 ? "grey" : "white",
+          borderColor: timeLeft <= 10000 && timeLeft > 0 ? "grey" : "black",
           borderWidth: "4px",
         }}
       >
